@@ -1,5 +1,4 @@
 # Retail Supply Chain Analytics Dashboard
-# Retail Supply Chain Analytics Dashboard
 
 ## Project Overview
 This project presents an end-to-end Power BI dashboard developed using a retail supply chain sales dataset containing approximately 10,000 sales records. The objective was to transform raw transactional data into an interactive business intelligence solution that enables data-driven decision-making across sales, profitability, customer behaviour, and logistics performance. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
