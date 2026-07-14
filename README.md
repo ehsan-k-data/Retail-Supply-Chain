@@ -25,7 +25,7 @@ This project presents an end-to-end Power BI dashboard developed using a retail 
 - Identified **Technology** as the highest-profit category and **Tables** as the least profitable sub-category.
 - Found the **West** region and **Consumer** segment to be the strongest business performers.
 - Analysed delivery performance, return rates, and regional logistics efficiency.
-- Developed actionable business recommendations to improve profitability, inventory planning, and supply chain performance. :contentReference[oaicite:2]{index=2}
+- Developed actionable business recommendations to improve profitability, inventory planning, and supply chain performance.
 
 ## Business Outcome
-The dashboard provides decision-makers with an interactive reporting solution to monitor sales performance, evaluate profitability, identify operational bottlenecks, and support strategic business decisions through data-driven insights. :contentReference[oaicite:3]{index=3}
+The dashboard provides decision-makers with an interactive reporting solution to monitor sales performance, evaluate profitability, identify operational bottlenecks, and support strategic business decisions through data-driven insights. 
